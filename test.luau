@@ -1,1 +1,2 @@
-local DatasStoreService = game:game:GetService("DataStoreService")
+local DataStoreService = game:GetService("DataStoreService")
+local dataStore = DataStoreService:GetDataStore()
